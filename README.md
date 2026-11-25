@@ -1,14 +1,14 @@
 Привет! Меня зовут Виктория. Я начинающий специалист по тестированию ПО.
 В этом репозитории собраны практические работы, выполненные в рамках обучения тестированию ПО.
 
-Практическая работа:
-Аналитика	https://ru.yougile.com/board/iet6nu70o6fv
-Регистрация и авторизация	https://ru.yougile.com/board/02z6pc86c7iq
-Остатки товара и API https://ru.yougile.com/board/5slqeb8mxwe9
-Безопасность https://ru.yougile.com/board/9g4ks1x8xv99
-UI-тестирование	https://ru.yougile.com/board/dghnopd9ewbj
-Повторное тестирование https://ru.yougile.com/board/iz1cs5clhp13
+* Аналитика — [ссылка](https://ru.yougile.com/board/iet6nu70o6fv)
+* Регистрация и авторизация — [ссылка](https://ru.yougile.com/board/02z6pc86c7iq)
+* Остатки товара и API — [ссылка](https://ru.yougile.com/board/5slqeb8mxwe9)
+* Безопасность — [ссылка](https://ru.yougile.com/board/9g4ks1x8xv99)
+* UI‑тестирование — [ссылка](https://ru.yougile.com/board/dghnopd9ewbj)
+* Повторное тестирование — [ссылка](https://ru.yougile.com/board/iz1cs5clhp13)
 
+  
 Проект: комплексное тестирование интернет-магазина
 В рамках итогового проекта выполнила:
 1. Тестирование аналитики
@@ -73,14 +73,3 @@ UI-тестирование	https://ru.yougile.com/board/dghnopd9ewbj
 Визуальное представление состояний и переходов тестируемой функциональности.
 
 Ищу позицию Junior QA Engineer / Junior Manual QA, где смогу применять полученные знания, развивать практические навыки тестирования и расти в профессии. 
-
-
-
-
-
-* Аналитика — [ссылка](https://ru.yougile.com/board/iet6nu70o6fv)
-* Регистрация и авторизация — [ссылка](https://ru.yougile.com/board/02z6pc86c7iq)
-* Остатки товара и API — [ссылка](https://ru.yougile.com/board/5slqeb8mxwe9)
-* Безопасность — [ссылка](https://ru.yougile.com/board/9g4ks1x8xv99)
-* UI‑тестирование — [ссылка](https://ru.yougile.com/board/dghnopd9ewbj)
-* Повторное тестирование — [ссылка](https://ru.yougile.com/board/iz1cs5clhp13)
