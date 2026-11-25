@@ -24,3 +24,5 @@ API-тестирование и итоговый проект — полный �
 - [Регресс интернет-магазина](https://github.com/VikaProkopchenkova/QA-portfolio/blob/main/Сценарии%20для%20регресса.xlsx) тестирования по регрессионным сценариям после редизайна
 - [Повторное тестирование багов функциональности формы регистрации и авторизации, остатков на складе через API и безопасности](https://ru.yougile.com/board/iz1cs5clhp13)
 - [Создание приёмочных тестов](https://github.com/VikaProkopchenkova/QA-portfolio/blob/main/Приемочное%20тестирование.xlsx)
+
+[Пример нескольких баг-репортов](https://github.com/VikaProkopchenkova/QA-portfolio/blob/main/bug-reports/screenshots) 
