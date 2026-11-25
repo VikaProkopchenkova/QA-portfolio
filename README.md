@@ -1,5 +1,4 @@
 # QA-portfolio
-My first repository on GitHub
 
 Проект - комплексное тестирование интернет-магазина
 
