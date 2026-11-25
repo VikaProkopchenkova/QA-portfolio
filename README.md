@@ -17,10 +17,10 @@ API-тестирование и итоговый проект — полный �
 ## Итоговый проект: комплексное тестирование интернет-магазина
 - [Тестирование аналитики](https://ru.yougile.com/board/iet6nu70o6fv) баг-репорты черновой аналитики
 - [Тестирование формы регистрации и авторизации](https://ru.yougile.com/board/02z6pc86c7iq) баг-репорты формы авторизации
-- [Диаграмма состояний и переходов](https://github.com/VikaProkopchenkova/QA-portfolio/blob/main/Диаграмма%20состояний%20и%20переходов.png) диаграмма состояний и переходов по всему сервису
+- [Диаграмма состояний и переходов](https://github.com/VikaProkopchenkova/QA-portfolio/blob/main/Диаграмма%20состояний%20и%20переходов.png) по всему сервису
 - [Остатки товара и API](https://ru.yougile.com/board/5slqeb8mxwe9) баг-репорты функциональности «Остатка товара на складе» и хранения данных на бэкенде, используя API
 - [Безопасность](https://ru.yougile.com/board/9g4ks1x8xv99) баг-репорты уязвимости безопасности
 - [UI-тестирование](https://ru.yougile.com/board/dghnopd9ewbj) баг-репорты UI по прототипу в Figma в браузерах Google Chrome и Firefox
 - [Регресс интернет-магазина](https://github.com/VikaProkopchenkova/QA-portfolio/blob/main/Сценарии%20для%20регресса.xlsx) тестирования по регрессионным сценариям после редизайна
-- [повторное тестирование багов функциональности формы регистрации и авторизации, остатков на складе через API и безопасности.]([https://ru.yougile.com/board/iet6nu70o6fv](https://ru.yougile.com/board/iz1cs5clhp13))
+- [Повторное тестирование багов функциональности формы регистрации и авторизации, остатков на складе через API и безопасности](https://ru.yougile.com/board/iet6nu70o6fv](https://ru.yougile.com/board/iz1cs5clhp13).
 - [Создание приёмочных тестов](https://github.com/VikaProkopchenkova/QA-portfolio/blob/main/Приемочное%20тестирование.xlsx)
